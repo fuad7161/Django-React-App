@@ -22,4 +22,12 @@ python -m django startproject backend
 cd .\backend\
 python manage.py startapp api
 ```
+- to run the project
+```
+python manage.py runserver
+```
+
+```
+manage.py -> settings.py -> urls.py
+```
 
